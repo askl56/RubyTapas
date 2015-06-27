@@ -1,10 +1,3 @@
-# #+TITLE: Large Integer Literals
-# #+SETUPFILE: ../defaults.org
-# #+BABEL:
-
-# Continuing in this series about literals and quoting, let's talk about
-# large integers.
-
 # Quick question: how many zeroes are in this number?
 
 100000000000
@@ -17,7 +10,7 @@
 
 # 100,000,000,000
 
-# Thankfully, we can do something similar in Ruby. Ruby lets us insert
+# We can do something similar in Ruby. Ruby lets us insert
 # underscores anywhere we want in integer literals. So we could rewrite
 # this number like so:
 
