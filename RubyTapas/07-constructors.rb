@@ -180,6 +180,7 @@ Snowflake.new # =>
 # This is also how Ruby's standard "Singleton" library works.
 
 require 'singleton'
+
 class TheOne
   include Singleton
 end
