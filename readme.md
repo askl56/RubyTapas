@@ -12,3 +12,4 @@ My adventure working through the Ruby Tapas courses.
 8. Fetch as an assertion
 9. Symbol Literals
 10. Finding $Home
+11. Method and Message
